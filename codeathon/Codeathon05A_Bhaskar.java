@@ -1,3 +1,6 @@
+package codeathon;
+
+
 import java.util.Scanner;
 
 class Rectangle {

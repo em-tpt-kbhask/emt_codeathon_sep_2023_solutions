@@ -1,3 +1,7 @@
+package codeathon;
+
+
+
 import java.util.Scanner;
 class Demo{
   static void swap(int a, int b){

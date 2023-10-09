@@ -1,3 +1,4 @@
+package codeathon;
 import java.util.Scanner;
 
 public class Codeathon03_Bhaskar {
